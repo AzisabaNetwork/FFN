@@ -1,0 +1,9 @@
+GatherWorlds:
+  - FFTrial
+
+GatherDelaySeconds: 30
+
+#  %digger% only
+GatherList:
+#STONE:
+#- "mlg %digger% ffnDrop2 1 1"

@@ -1,0 +1,7 @@
+name: FFN
+version: '${version}'
+main: net.azisaba.ffn.FFN
+api-version: '1.21.11'
+authors: [ Azisaba Network ]
+website: https://github.com/AzisabaNetwork/FFN
+depend: MythicMobs
